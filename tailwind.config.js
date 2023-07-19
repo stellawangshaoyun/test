@@ -10,9 +10,6 @@ module.exports = {
       fontFamily: {
         anton: ["Anton", "sans-serif"],
       },
-      backgroundImage: {
-        texture: "url('bg.jpg')",
-      },
       spacing: {
         98: "94vh",
       },
