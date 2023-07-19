@@ -11,7 +11,7 @@ module.exports = {
         anton: ["Anton", "sans-serif"],
       },
       backgroundImage: {
-        texture: "url('./src/assets/bg.jpg')",
+        texture: "url('bg.jpg')",
       },
       spacing: {
         98: "94vh",
